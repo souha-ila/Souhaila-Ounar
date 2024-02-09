@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Souhaila-Ounar/static/css/main.58462fbc.css",
+    "main.js": "/Souhaila-Ounar/static/js/main.27e41483.js",
+    "static/media/profile-img.png": "/Souhaila-Ounar/static/media/profile-img.815d0804f7243c174565.png",
+    "static/media/u-said-it-v13-1167.mp3": "/Souhaila-Ounar/static/media/u-said-it-v13-1167.9563b8de616a2703c18d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Souhaila-Ounar/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/Souhaila-Ounar/static/media/spaceman.1734e2a6d30ccbef59da.png",
+    "index.html": "/Souhaila-Ounar/index.html",
+    "main.58462fbc.css.map": "/Souhaila-Ounar/static/css/main.58462fbc.css.map",
+    "main.27e41483.js.map": "/Souhaila-Ounar/static/js/main.27e41483.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.27e41483.js"
+  ]
+}

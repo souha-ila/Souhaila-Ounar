@@ -6,7 +6,7 @@ export const Blogs = [
     name: "CatZoom is a user-friendly web platform facilitating cat adoption through detailed cat profiles and an administrative interface.",
     tags: ["Bootstrap", "spring boot", "JPA", "JSP", "mySql"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/1%20(2).png",
+    imgSrc: "https://postimg.cc/23PgMVqS",
     link: "https://github.com/souha-ila/CatZoom-main",
   },
   {
@@ -14,7 +14,7 @@ export const Blogs = [
     name: "LirePLUS is a virtual literary haven offering an immersive reading experience with meticulously curated digital books.",
     tags: ["Bootstrap", ".NET ", "Entity Framework", "SQL Server"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/2.png",
+    imgSrc: "https://postimg.cc/FfWBZR5m",
     link: "https://github.com/souha-ila/LibraryFinal-main",
   },
   {
@@ -22,7 +22,7 @@ export const Blogs = [
     name: "Yarn Vibes is an eco-responsible online sales application specializing in crochet products",
     tags: ["Symfony", "Twig", "MySql"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/11%20(1).png",
+    imgSrc: "https://postimg.cc/0624DS4c",
     link: "https://github.com/souha-ila/Symfony_Store-main.git",
   },
   {
@@ -30,7 +30,7 @@ export const Blogs = [
     name: "UEMF News is an application developed with Node.js and MongoDB, allowing you to follow university news.",
     tags: ["React", "Node.js", "Express", "MongoDB"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/3.png",
+    imgSrc: "https://postimg.cc/ph3cw6L6",
     link: "https://github.com/souha-ila/MERN_App",
   },
   {
@@ -38,7 +38,7 @@ export const Blogs = [
     name: "Vroom is a comprehensive website, offering a convenient car rental experience for customers.",
     tags: ["Laravel", "mysql", "bootstrap"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/4.png",
+    imgSrc: "https://postimg.cc/SnG5ndgn",
     link: "https://github.com/souha-ila/depoVroo--main/tree/main",
   },
   {
@@ -46,7 +46,7 @@ export const Blogs = [
     name: "MOTSUC offers a unique blend of hand-painted treasures,providing an elevated experience in artistic expression.",
     tags: ["html", "css", "JavaScript"],
 
-    imgSrc: "https://github.com/souha-ila/Souhaila-Ounar/blob/main/5.png",
+    imgSrc: "https://postimg.cc/87G9k9m8",
     link: "https://souha-ila.github.io/MOTSUC/",
   },
 ];
